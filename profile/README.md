@@ -56,8 +56,8 @@ Here are a few different ways you can contribute:
 
 ## Code of Conduct
 
-We value a respectful and collaborative environment. Please review our Code of
-Conduct (link to your Code of Conduct if you have one) to ensure that your
+We value a respectful and collaborative environment. Please review our [Code of
+Conduct](CODE_OF_CONDUCT.md) to ensure that your
 interactions adhere to the project's standards.
 
 ## Questions?
